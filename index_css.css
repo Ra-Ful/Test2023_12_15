@@ -5,11 +5,17 @@ form{
     width: min-content;
     background-color: greenyellow;
 }
+label{
+    display: inline-block;
+}
 button{
     background-color: white;
     border: solid 1px;
     margin-top: 5px;
-    
+}
+#Avtorizition{
+    width: 100%;
+    transform: scale(1);
 }
 button:hover{
     background-color: red;
