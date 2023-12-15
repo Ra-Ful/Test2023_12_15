@@ -1,0 +1,17 @@
+form{
+    padding: 12px;
+    margin: 12px;
+    border: solid 1px;
+    width: min-content;
+    background-color: greenyellow;
+}
+button{
+    background-color: white;
+    border: solid 1px;
+    margin-top: 5px;
+    
+}
+button:hover{
+    background-color: red;
+    transform: scale(1.1);
+}
